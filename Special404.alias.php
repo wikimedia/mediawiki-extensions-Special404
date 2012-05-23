@@ -48,6 +48,11 @@ $specialPageAliases['gl'] = array(
 	'Error404' => array( 'Erro404' ),
 );
 
+/** Swiss German (Alemannisch) */
+$specialPageAliases['gsw'] = array(
+	'Error404' => array( 'Fääler_404' ),
+);
+
 /** Haitian (Kreyòl ayisyen) */
 $specialPageAliases['ht'] = array(
 	'Error404' => array( 'Erè404' ),
@@ -56,6 +61,11 @@ $specialPageAliases['ht'] = array(
 /** Georgian (ქართული) */
 $specialPageAliases['ka'] = array(
 	'Error404' => array( 'შეცდომა_404' ),
+);
+
+/** Cornish (Kernowek) */
+$specialPageAliases['kw'] = array(
+	'Error404' => array( 'Gwall404' ),
 );
 
 /** Luxembourgish (Lëtzebuergesch) */
@@ -71,6 +81,11 @@ $specialPageAliases['mk'] = array(
 /** Malayalam (മലയാളം) */
 $specialPageAliases['ml'] = array(
 	'Error404' => array( 'പിഴവ്404' ),
+);
+
+/** Norwegian Bokmål (‪Norsk (bokmål)‬) */
+$specialPageAliases['nb'] = array(
+	'Error404' => array( '404-feil' ),
 );
 
 /** Nedersaksisch (Nedersaksisch) */
