@@ -292,6 +292,20 @@ Myndir þú vilja kíkja á:
 * [[{{MediaWiki:Mainpage}}|Forsíðuna]]',
 );
 
+/** Italian (italiano)
+ * @author Beta16
+ */
+$messages['it'] = array(
+	'special404-desc' => "Fornisce una destinazione per l'errore 404 non trovato",
+	'error404' => '404 non trovato',
+	'special404-body' => "L'URL richiesto non è stato trovato.
+
+Forse volevi scrivere {{fullurl:$1}}?
+
+Forse ti piacerebbe dare un'occhiata alla:
+* [[{{MediaWiki:Mainpage}}|La pagina principale]]",
+);
+
 /** Japanese (日本語)
  * @author Ohgi
  */
