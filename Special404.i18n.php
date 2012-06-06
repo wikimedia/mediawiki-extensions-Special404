@@ -308,11 +308,12 @@ Forse ti piacerebbe dare un'occhiata alla:
 
 /** Japanese (日本語)
  * @author Ohgi
+ * @author Shirayuki
  */
 $messages['ja'] = array(
-	'special404-desc' => 'アクセス先に404エラーが発生したことをお知らせします',
+	'special404-desc' => '「404 Not found」エラー時の行き先を提供する',
 	'error404' => '404 ページが見つかりません',
-	'special404-body' => 'あなたが要求したURLはみつかりませんでした。
+	'special404-body' => 'あなたが要求したURLは見つかりませんでした。
 
 お探しのURLは {{fullurl:$1}} でしょうか。
 
