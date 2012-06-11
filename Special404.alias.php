@@ -18,7 +18,7 @@ $specialPageAliases['ar'] = array(
 	'Error404' => array( 'خطأ404' ),
 );
 
-/** Breton (Brezhoneg) */
+/** Breton (brezhoneg) */
 $specialPageAliases['br'] = array(
 	'Error404' => array( 'Fazi_404', '404' ),
 );
@@ -28,17 +28,22 @@ $specialPageAliases['de'] = array(
 	'Error404' => array( 'Fehler_404' ),
 );
 
+/** Zazaki (Zazaki) */
+$specialPageAliases['diq'] = array(
+	'Error404' => array( 'Xırab404' ),
+);
+
 /** Persian (فارسی) */
 $specialPageAliases['fa'] = array(
 	'Error404' => array( 'خطای_۴۰۴', '۴۰۴' ),
 );
 
-/** French (Français) */
+/** French (français) */
 $specialPageAliases['fr'] = array(
 	'Error404' => array( 'Erreur404' ),
 );
 
-/** Franco-Provençal (Arpetan) */
+/** Franco-Provençal (arpetan) */
 $specialPageAliases['frp'] = array(
 	'Error404' => array( 'Èrror404' ),
 );
@@ -63,7 +68,12 @@ $specialPageAliases['ka'] = array(
 	'Error404' => array( 'შეცდომა_404' ),
 );
 
-/** Cornish (Kernowek) */
+/** Korean (한국어) */
+$specialPageAliases['ko'] = array(
+	'Error404' => array( '오류404' ),
+);
+
+/** Cornish (kernowek) */
 $specialPageAliases['kw'] = array(
 	'Error404' => array( 'Gwall404' ),
 );
@@ -73,7 +83,7 @@ $specialPageAliases['lb'] = array(
 	'Error404' => array( 'Feeler_404' ),
 );
 
-/** Macedonian (Македонски) */
+/** Macedonian (македонски) */
 $specialPageAliases['mk'] = array(
 	'Error404' => array( 'Грешка404' ),
 );
@@ -83,7 +93,7 @@ $specialPageAliases['ml'] = array(
 	'Error404' => array( 'പിഴവ്404' ),
 );
 
-/** Norwegian Bokmål (‪Norsk (bokmål)‬) */
+/** Norwegian Bokmål (‪norsk (bokmål)‬) */
 $specialPageAliases['nb'] = array(
 	'Error404' => array( '404-feil' ),
 );
@@ -93,7 +103,7 @@ $specialPageAliases['nds-nl'] = array(
 	'Error404' => array( 'Fout404' ),
 );
 
-/** Polish (Polski) */
+/** Polish (polski) */
 $specialPageAliases['pl'] = array(
 	'Error404' => array( 'Błąd_404' ),
 );
@@ -108,7 +118,7 @@ $specialPageAliases['yue'] = array(
 	'Error404' => array( '錯誤404' ),
 );
 
-/** Simplified Chinese (‪中文(简体)‬) */
+/** Simplified Chinese (‪中文（简体）‬) */
 $specialPageAliases['zh-hans'] = array(
 	'Error404' => array( '404错误' ),
 );
