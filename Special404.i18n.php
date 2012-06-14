@@ -29,7 +29,7 @@ $messages['ar'] = array(
 	'error404' => '404 لم يتم العثور على',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -58,7 +58,7 @@ $messages['be-tarask'] = array(
 * [[{{MediaWiki:Mainpage}}|Галоўную старонку]]',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
@@ -72,7 +72,7 @@ Marteze ho po c'hoant da sellet ouzh :
 * [[{{MediaWiki:Mainpage}}|Ar bajenn degemer]]",
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -143,7 +143,7 @@ Snaź coš se slědujucy bok woglědaś:
 * [[{{MediaWiki:Mainpage}}|Głowny bok]]',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Fitoschido
  * @author Locos epraix
  */
@@ -158,7 +158,7 @@ Tal vez te gustaría ir a:
 * [[{{MediaWiki:Mainpage}}|La página principal]]',
 );
 
-/** French (Français)
+/** French (français)
  * @author Sherbrooke
  */
 $messages['fr'] = array(
@@ -172,7 +172,7 @@ Peut-être que vous désirez aller à la
 * [[{{MediaWiki:Mainpage}}|Page d'accueil]] ?",
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -235,7 +235,7 @@ Snano chceš sej slědowacu stronu wobhladać:
 * [[{{MediaWiki:Mainpage}}|Hłowna strona]]',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author BáthoryPéter
  * @author Dani
  * @author Dj
@@ -251,7 +251,7 @@ Esetleg próbálj keresni:
 * [[{{MediaWiki:Mainpage}}|A kezdőlapon]]',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -279,7 +279,7 @@ Mungkin Anda ingin melihat:
 * [[{{MediaWiki:Mainpage}}|Halaman utama]]',
 );
 
-/** Icelandic (Íslenska)
+/** Icelandic (íslenska)
  * @author Snævar
  */
 $messages['is'] = array(
@@ -348,14 +348,14 @@ Vläicht wëllt Dir op der:
 * [[{{MediaWiki:Mainpage}}|Haaptsäit]] kucken',
 );
 
-/** Lingala (Lingála)
+/** Lingala (lingála)
  * @author Eruedin
  */
 $messages['ln'] = array(
 	'error404' => 'Zíko 404: Lonkásá ezalí tɛ́.',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -411,7 +411,7 @@ Bedoelde u {{fullurl:$1}}?
 Misschien wilt u de [[{{MediaWiki:Mainpage}}|hoofdpagina]] bekijken.',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  */
 $messages['pl'] = array(
@@ -440,7 +440,7 @@ A peul esse ch'a veula vardé:
 * [[{{MediaWiki:Mainpage}}|La pàgina d'intrada]]",
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  * @author Waldir
  */
@@ -455,7 +455,7 @@ Talvez queira visitar:
 * [[{{MediaWiki:Mainpage}}|A página principal]]',
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Byulent
  * @author Александр Сигачёв
  */
@@ -477,7 +477,7 @@ $messages['si'] = array(
 	'error404' => '404 හමු නොවුණි',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author WikiPhoenix
  */
 $messages['sv'] = array(
@@ -525,7 +525,7 @@ Marahil ay nais mong tumingin doon sa:
 * [[{{MediaWiki:Mainpage}}|Ang pangunahing pahina]]',
 );
 
-/** Tatar (Cyrillic script) (Татарча)
+/** Tatar (Cyrillic script) (татарча)
  * @author Ильнар
  */
 $messages['tt-cyrl'] = array(
@@ -538,7 +538,7 @@ $messages['tt-cyrl'] = array(
 * [[{{MediaWiki:Mainpage}}|The Main page]]',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Тест
  */
 $messages['uk'] = array(
@@ -559,7 +559,7 @@ Xem thêm:
 * [[{{MediaWiki:Mainpage}}|Trang đầu]]',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Hzy980512
  */
 $messages['zh-hans'] = array(
@@ -573,7 +573,7 @@ $messages['zh-hans'] = array(
 * [[{{MediaWiki:Mainpage}}|主页]]',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Waihorace
  */
 $messages['zh-hant'] = array(
