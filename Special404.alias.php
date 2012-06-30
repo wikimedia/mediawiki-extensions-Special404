@@ -18,6 +18,11 @@ $specialPageAliases['ar'] = array(
 	'Error404' => array( 'خطأ404' ),
 );
 
+/** Assamese (অসমীয়া) */
+$specialPageAliases['as'] = array(
+	'Error404' => array( 'ভুল__৪০৪', '৪০৪' ),
+);
+
 /** Breton (brezhoneg) */
 $specialPageAliases['br'] = array(
 	'Error404' => array( 'Fazi_404', '404' ),
@@ -48,7 +53,7 @@ $specialPageAliases['frp'] = array(
 	'Error404' => array( 'Èrror404' ),
 );
 
-/** Galician (Galego) */
+/** Galician (galego) */
 $specialPageAliases['gl'] = array(
 	'Error404' => array( 'Erro404' ),
 );
