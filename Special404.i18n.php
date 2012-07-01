@@ -43,7 +43,7 @@ Seique quieras echa-y una güeyada a:
 * [[{{MediaWiki:Mainpage}}|La portada]]",
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -129,7 +129,7 @@ Vielleicht sollte stattdessen folgende Seite aufgerufen werden:
 * [[{{MediaWiki:Mainpage}}]]',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -179,7 +179,7 @@ $messages['frp'] = array(
 	'error404' => '404 entrovâblo',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -221,7 +221,7 @@ $messages['he'] = array(
 * [[{{MediaWiki:Mainpage}}|הדף הראשי]]',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
