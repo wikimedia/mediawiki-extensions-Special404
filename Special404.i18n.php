@@ -86,7 +86,7 @@ Možda bi ste željeli da pogledate:
 * [[{{MediaWiki:Mainpage}}|Početnu stranu]]',
 );
 
-/** Chechen (Нохчийн)
+/** Chechen (нохчийн)
  * @author Sasan700
  */
 $messages['ce'] = array(
@@ -383,7 +383,7 @@ Mungkin anda ingin melihat:
 * [[{{MediaWiki:Mainpage}}|Laman utama]]',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
