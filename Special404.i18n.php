@@ -321,6 +321,13 @@ $messages['ja'] = array(
 * [[{{MediaWiki:Mainpage}}|メインページ]]',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'error404' => '404 ვერ მოიძებნა',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
