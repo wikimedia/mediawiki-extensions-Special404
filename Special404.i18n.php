@@ -552,6 +552,13 @@ $messages['uk'] = array(
 	'error404' => '404 Не знайдено',
 );
 
+/** Urdu (اردو)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['ur'] = array(
+	'error404' => '404 نہیں ملا',
+);
+
 /** Vietnamese (Tiếng Việt)
  * @author Minh Nguyen
  */
