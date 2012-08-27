@@ -113,6 +113,11 @@ $specialPageAliases['pl'] = array(
 	'Error404' => array( 'Błąd_404' ),
 );
 
+/** Turkish (Türkçe) */
+$specialPageAliases['tr'] = array(
+	'Error404' => array( 'Hata404' ),
+);
+
 /** Vietnamese (Tiếng Việt) */
 $specialPageAliases['vi'] = array(
 	'Error404' => array( 'Lỗi_404' ),
