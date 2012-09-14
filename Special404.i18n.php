@@ -328,6 +328,20 @@ $messages['ka'] = array(
 	'error404' => '404 ვერ მოიძებნა',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'special404-desc' => '404 Not found 오류에 대한 대상 제공',
+	'error404' => '404 찾을 수 없습니다',
+	'special404-body' => '요청한 URL을 찾을 수 없습니다.
+
+{{fullurl:$1}}(을)를 찾으셨나요?
+
+다음을 보려고 한 것 같습니다:
+* [[{{MediaWiki:Mainpage}}|대문]]',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
