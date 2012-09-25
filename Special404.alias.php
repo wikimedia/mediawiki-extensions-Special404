@@ -98,7 +98,7 @@ $specialPageAliases['ml'] = array(
 	'Error404' => array( 'പിഴവ്404' ),
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬) */
+/** Norwegian Bokmål (norsk (bokmål)‎) */
 $specialPageAliases['nb'] = array(
 	'Error404' => array( '404-feil' ),
 );
@@ -128,7 +128,7 @@ $specialPageAliases['yue'] = array(
 	'Error404' => array( '錯誤404' ),
 );
 
-/** Simplified Chinese (‪中文（简体）‬) */
+/** Simplified Chinese (中文（简体）‎) */
 $specialPageAliases['zh-hans'] = array(
 	'Error404' => array( '404错误' ),
 );
