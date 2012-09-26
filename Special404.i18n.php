@@ -601,10 +601,17 @@ $messages['zh-hans'] = array(
 * [[{{MediaWiki:Mainpage}}|主页]]',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Waihorace
  */
 $messages['zh-hant'] = array(
+	'special404-desc' => '提供404錯誤的目的地',
 	'error404' => '404 找不到頁面',
+	'special404-body' => '您要求的鏈接找不到。
+
+您是想輸入{{fullurl:$1}}么？
+
+可能您也想去：
+* [[{{MediaWiki:Mainpage}}|主頁]]',
 );
 
