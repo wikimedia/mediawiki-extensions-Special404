@@ -43,7 +43,7 @@ Seique quieras echa-y una güeyada a:
 * [[{{MediaWiki:Mainpage}}|La portada]]",
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -404,7 +404,7 @@ Mungkin anda ingin melihat:
 * [[{{MediaWiki:Mainpage}}|Laman utama]]',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -587,7 +587,7 @@ Xem thêm:
 * [[{{MediaWiki:Mainpage}}|Trang đầu]]',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Hzy980512
  */
 $messages['zh-hans'] = array(
