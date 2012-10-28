@@ -516,13 +516,13 @@ Kanske du vill titta på:
  * @author Lloffiwr
  */
 $messages['sw'] = array(
-	'error404' => '404 Haikupatikana',
+	'error404' => '404 Haikupatikana', # Fuzzy
 	'special404-body' => 'URL uliyotafuta haikupatikana.
 
 Ulikusudia kuandika {{fullurl:$1}}?
 
 Huenda ungependa kutazama:
-* [[{{MediaWiki:Mainpage}}|Ukurasa wa kwanza]]',
+* [[{{MediaWiki:Mainpage}}|Ukurasa wa kwanza]]', # Fuzzy
 );
 
 /** Telugu (తెలుగు)
@@ -614,4 +614,3 @@ $messages['zh-hant'] = array(
 可能您也想去：
 * [[{{MediaWiki:Mainpage}}|主頁]]',
 );
-
