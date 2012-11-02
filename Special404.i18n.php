@@ -560,10 +560,17 @@ $messages['tt-cyrl'] = array(
 );
 
 /** Ukrainian (українська)
+ * @author Base
  * @author Тест
  */
 $messages['uk'] = array(
+	'special404-desc' => 'Забезпечує сторінку для помилок 404',
 	'error404' => '404 Не знайдено',
+	'special404-body' => 'Запитаний URL не знайдено.
+Можливо Ви мали на увазі {{fullurl:$1}}?
+
+Можливо Ви бажаєте глянути на:
+* [[{{MediaWiki:Mainpage}}|Головну сторінку]]',
 );
 
 /** Urdu (اردو)
