@@ -525,6 +525,13 @@ Huenda ungependa kutazama:
 * [[{{MediaWiki:Mainpage}}|Ukurasa wa kwanza]]', # Fuzzy
 );
 
+/** Tamil (தமிழ்)
+ * @author மதனாஹரன்
+ */
+$messages['ta'] = array(
+	'error404' => '404 கண்டுபிடிக்கப்படவில்லை',
+);
+
 /** Telugu (తెలుగు)
  * @author Veeven
  */
