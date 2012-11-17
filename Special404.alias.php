@@ -68,6 +68,11 @@ $specialPageAliases['ht'] = array(
 	'Error404' => array( 'Erè404' ),
 );
 
+/** Italian (italiano) */
+$specialPageAliases['it'] = array(
+	'Error404' => array( 'Errore404' ),
+);
+
 /** Georgian (ქართული) */
 $specialPageAliases['ka'] = array(
 	'Error404' => array( 'შეცდომა_404' ),
