@@ -118,9 +118,19 @@ $specialPageAliases['pl'] = array(
 	'Error404' => array( 'Błąd_404' ),
 );
 
+/** Sicilian (sicilianu) */
+$specialPageAliases['scn'] = array(
+	'Error404' => array( 'Errore404' ),
+);
+
 /** Turkish (Türkçe) */
 $specialPageAliases['tr'] = array(
 	'Error404' => array( 'Hata404' ),
+);
+
+/** Urdu (اردو) */
+$specialPageAliases['ur'] = array(
+	'Error404' => array( 'خطاء404' ),
 );
 
 /** Vietnamese (Tiếng Việt) */
