@@ -128,6 +128,11 @@ $specialPageAliases['tr'] = array(
 	'Error404' => array( 'Hata404' ),
 );
 
+/** Ukrainian (українська) */
+$specialPageAliases['uk'] = array(
+	'Error404' => array( 'Помилка404', '404' ),
+);
+
 /** Urdu (اردو) */
 $specialPageAliases['ur'] = array(
 	'Error404' => array( 'خطاء404' ),
