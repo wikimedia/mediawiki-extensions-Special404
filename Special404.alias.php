@@ -28,6 +28,11 @@ $specialPageAliases['br'] = array(
 	'Error404' => array( 'Fazi_404', '404' ),
 );
 
+/** буряад (буряад) */
+$specialPageAliases['bxr'] = array(
+	'Error404' => array( '404-дүгээр_алдуу' ),
+);
+
 /** German (Deutsch) */
 $specialPageAliases['de'] = array(
 	'Error404' => array( 'Fehler_404' ),
