@@ -113,7 +113,7 @@ $specialPageAliases['nb'] = array(
 	'Error404' => array( '404-feil' ),
 );
 
-/** Nedersaksisch (Nedersaksisch) */
+/** Nedersaksies (Nedersaksies) */
 $specialPageAliases['nds-nl'] = array(
 	'Error404' => array( 'Fout404' ),
 );
