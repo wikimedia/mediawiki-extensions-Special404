@@ -22,6 +22,13 @@ Maybe you would like to look at:
 * [[{{MediaWiki:Mainpage}}|The main page]]',
 );
 
+/** Message documentation (Message documentation)
+ * @author Shirayuki
+ */
+$messages['qqq'] = array(
+	'special404-desc' => '{{desc|name=Special 404|url=http://www.mediawiki.org/wiki/Extension:Special404}}',
+);
+
 /** Arabic (العربية)
  * @author روخو
  */
