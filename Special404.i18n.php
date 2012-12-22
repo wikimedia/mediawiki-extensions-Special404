@@ -165,6 +165,13 @@ Tal vez te gustaría ir a:
 * [[{{MediaWiki:Mainpage}}|La página principal]]',
 );
 
+/** Persian (فارسی)
+ * @author Mjbmr
+ */
+$messages['fa'] = array(
+	'error404' => '۴۰۴ یافت نشد',
+);
+
 /** French (français)
  * @author Sherbrooke
  */
