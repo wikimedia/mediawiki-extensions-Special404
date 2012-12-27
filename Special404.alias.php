@@ -157,3 +157,8 @@ $specialPageAliases['yue'] = array(
 $specialPageAliases['zh-hans'] = array(
 	'Error404' => array( '404错误' ),
 );
+
+/** Traditional Chinese (中文（繁體）‎) */
+$specialPageAliases['zh-hant'] = array(
+	'Error404' => array( '404錯誤' ),
+);
