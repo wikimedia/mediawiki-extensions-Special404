@@ -490,6 +490,13 @@ Talvez queira visitar:
 * [[{{MediaWiki:Mainpage}}|A página principal]]',
 );
 
+/** Romanian (română)
+ * @author Stelistcristi
+ */
+$messages['ro'] = array(
+	'error404' => '404 Pagină negăsită',
+);
+
 /** Russian (русский)
  * @author Byulent
  * @author Александр Сигачёв
