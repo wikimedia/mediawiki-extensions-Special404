@@ -193,6 +193,20 @@ $messages['frp'] = array(
 	'error404' => '404 entrovâblo',
 );
 
+/** Northern Frisian (Nordfriisk)
+ * @author Murma174
+ */
+$messages['frr'] = array(
+	'special404-desc' => 'Dü könst en sidj fäästlei, wan di HTTP-feeler „404 Ei fünjen“ föörkomt.',
+	'error404' => '404 Ei fünjen',
+	'special404-body' => 'Detdiar URL as ei fünjen wurden.
+
+Mendst dü ferlicht {{fullurl:$1}}?
+
+Ferlicht wel dü ans diar luke:
+* [[{{MediaWiki:Mainpage}}|Hoodsidj]]',
+);
+
 /** Galician (galego)
  * @author Toliño
  */
