@@ -78,6 +78,11 @@ $specialPageAliases['it'] = array(
 	'Error404' => array( 'Errore404' ),
 );
 
+/** Japanese (日本語) */
+$specialPageAliases['ja'] = array(
+	'Error404' => array( '404エラー', 'エラー404' ),
+);
+
 /** Georgian (ქართული) */
 $specialPageAliases['ka'] = array(
 	'Error404' => array( 'შეცდომა_404' ),
