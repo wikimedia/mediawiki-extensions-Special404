@@ -113,7 +113,7 @@ $specialPageAliases['ml'] = array(
 	'Error404' => array( 'പിഴവ്404' ),
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎) */
+/** Norwegian Bokmål (norsk bokmål) */
 $specialPageAliases['nb'] = array(
 	'Error404' => array( '404-feil' ),
 );

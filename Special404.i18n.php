@@ -511,6 +511,14 @@ $messages['ro'] = array(
 	'error404' => '404 Pagină negăsită',
 );
 
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'special404-desc' => "Dèje 'na destinazione pe le errore 404 None acchiate",
+	'error404' => '404 none acchiate',
+);
+
 /** Russian (русский)
  * @author Byulent
  * @author Александр Сигачёв
