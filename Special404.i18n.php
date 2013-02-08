@@ -517,6 +517,12 @@ $messages['ro'] = array(
 $messages['roa-tara'] = array(
 	'special404-desc' => "Dèje 'na destinazione pe le errore 404 None acchiate",
 	'error404' => '404 none acchiate',
+	'special404-body' => "L'URL ca ste cercave non g'ha state acchiate.
+
+Cè signifeche 'a scritte {{fullurl:$1}}?
+
+Pò essere ca tu avissà 'ndrucà:
+* [[{{MediaWiki:Mainpage}}|'A Pàgene Prengepàle]]",
 );
 
 /** Russian (русский)
