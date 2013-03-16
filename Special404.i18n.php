@@ -383,6 +383,13 @@ Wohr velleisch {{fullurl:$1}} jemeint?
 Söns kam_mer och de [[{{MediaWiki:Mainpage}}|{{int:Mainpage}}]] bekike.',
 );
 
+/** Kurdish (Latin script) (Kurdî (latînî)‎)
+ * @author George Animal
+ */
+$messages['ku-latn'] = array(
+	'error404' => '404 nehat dîtin',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
  */
