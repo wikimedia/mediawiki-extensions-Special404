@@ -27,6 +27,8 @@ Maybe you would like to look at:
  */
 $messages['qqq'] = array(
 	'special404-desc' => '{{desc|name=Special 404|url=http://www.mediawiki.org/wiki/Extension:Special404}}',
+	'special404-body' => "Used as the 404 page's body. Parameters:
+* $1 - URL which has been formatted (trimmed or urldecoded)",
 );
 
 /** Arabic (العربية)
