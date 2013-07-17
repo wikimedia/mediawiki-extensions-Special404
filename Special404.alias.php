@@ -95,7 +95,7 @@ $specialPageAliases['ka'] = array(
 
 /** Korean (한국어) */
 $specialPageAliases['ko'] = array(
-	'Error404' => array( '오류404' ),
+	'Error404' => array( '404오류', '오류404' ),
 );
 
 /** Cornish (kernowek) */
