@@ -33,6 +33,11 @@ $specialPageAliases['bxr'] = array(
 	'Error404' => array( '404-дүгээр_алдуу' ),
 );
 
+/** Chechen (нохчийн) */
+$specialPageAliases['ce'] = array(
+	'Error404' => array( 'ГӀалат_404' ),
+);
+
 /** German (Deutsch) */
 $specialPageAliases['de'] = array(
 	'Error404' => array( 'Fehler_404' ),
