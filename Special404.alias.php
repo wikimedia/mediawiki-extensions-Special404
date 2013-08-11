@@ -33,6 +33,11 @@ $specialPageAliases['bxr'] = array(
 	'Error404' => array( '404-дүгээр_алдуу' ),
 );
 
+/** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄) */
+$specialPageAliases['cdo'] = array(
+	'Error404' => array( '錯誤404' ),
+);
+
 /** Chechen (нохчийн) */
 $specialPageAliases['ce'] = array(
 	'Error404' => array( 'ГӀалат_404' ),
