@@ -53,6 +53,11 @@ $specialPageAliases['diq'] = array(
 	'Error404' => array( 'Xırab404' ),
 );
 
+/** Greek (Ελληνικά) */
+$specialPageAliases['el'] = array(
+	'Error404' => array( 'Σφάλμα404' ),
+);
+
 /** Esperanto (Esperanto) */
 $specialPageAliases['eo'] = array(
 	'Error404' => array( 'Eraro_404' ),
