@@ -514,6 +514,20 @@ Talvez queira visitar:
 * [[{{MediaWiki:Mainpage}}|A página principal]]',
 );
 
+/** Brazilian Portuguese (português do Brasil)
+ * @author Cainamarques
+ */
+$messages['pt-br'] = array(
+	'special404-desc' => 'Fornece um destino para os erros "404 Não encontrado"',
+	'error404' => '404 Não encontrado',
+	'special404-body' => 'A URL solicitada não foi encontrada. 
+
+Pretendia escrever {{fullurl:$1}}? 
+
+Talvez queira visitar:
+* [[{{MediaWiki:Mainpage}}|A página principal]]',
+);
+
 /** Romanian (română)
  * @author Stelistcristi
  */
