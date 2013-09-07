@@ -470,6 +470,20 @@ Bedoelde u {{fullurl:$1}}?
 Misschien wilt u de [[{{MediaWiki:Mainpage}}|hoofdpagina]] bekijken.',
 );
 
+/** Occitan (occitan)
+ * @author Cedric31
+ */
+$messages['oc'] = array(
+	'special404-desc' => 'Ofrís una pagina per defaut per las errors 404 introbablas',
+	'error404' => '404 introbable',
+	'special404-body' => "L'URL qu'avètz demandada es pas estada trobada.
+
+Voliatz picar {{fullurl:$1}} ?
+
+Benlèu que volètz anar a la
+* [[{{MediaWiki:Mainpage}}|Pagina d'acuèlh]] ?",
+);
+
 /** Polish (polski)
  * @author Sp5uhe
  */
