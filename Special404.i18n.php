@@ -28,7 +28,11 @@ Maybe you would like to look at:
 $messages['qqq'] = array(
 	'special404-desc' => '{{desc|name=Special 404|url=http://www.mediawiki.org/wiki/Extension:Special404}}',
 	'error404' => '{{doc-special|Error404|unlisted=1}}',
-	'special404-body' => "Used as the 404 page's body. Parameters:
+	'special404-body' => "Used as the 404 page's body.
+
+Refers to {{msg-mw|Mainpage}}.
+
+Parameters:
 * $1 - URL which has been formatted (trimmed or urldecoded)",
 );
 
