@@ -644,6 +644,13 @@ Marahil ay nais mong tumingin doon sa:
 * [[{{MediaWiki:Mainpage}}|Ang pangunahing pahina]]',
 );
 
+/** Turkish (Türkçe)
+ * @author Incelemeelemani
+ */
+$messages['tr'] = array(
+	'error404' => '404 Bulunamadı',
+);
+
 /** Tatar (Cyrillic script) (татарча)
  * @author Ильнар
  */
