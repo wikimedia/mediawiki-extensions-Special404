@@ -228,6 +228,19 @@ Seica quere botar un ollo á:
 * [[{{MediaWiki:Mainpage}}|Portada]]',
 );
 
+/** Goan Konkani (Latin script) (Konknni)
+ * @author The Discoverer
+ */
+$messages['gom-latn'] = array(
+	'special404-desc' => 'Pan mellona tednam hem pan dakhoita',
+	'error404' => '404: Mellunk-nam',
+	'special404-body' => 'Tum sodtai tem URL mellunk-nam
+
+Tuka hem type koruk zai-aslem gai: {{fullurl:$1}}?
+
+Zai zalear [[{{MediaWiki:Mainpage}}|Mukhel Pan]] polloi',
+);
+
 /** Swiss German (Alemannisch)
  * @author Als-Holder
  */
