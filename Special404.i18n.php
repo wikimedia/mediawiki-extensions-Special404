@@ -102,15 +102,16 @@ Možda bi ste željeli da pogledate:
 
 /** Chechen (нохчийн)
  * @author Sasan700
+ * @author Умар
  */
 $messages['ce'] = array(
 	'special404-desc' => 'Латта до дlасхьажор оцу гlалатан 404',
 	'error404' => '404 Ца карийна',
-	'special404-body' => 'Дехарца йолу URL-меттиг ца карайна.
+	'special404-body' => 'Дехарца йолу URL-адрес ца карайна.
 
-Хьо язъйа лууш вари {{fullurl:$1}}?
+Хьуна язъян лууш дари {{fullurl:$1}}?
 
-Хила мега, хьо оуьнга хьажа лууш:
+Хила мега, хьо хӀокхуьнга хьажа лууш:
 * [[{{MediaWiki:Mainpage}}|The Main page]]',
 );
 
