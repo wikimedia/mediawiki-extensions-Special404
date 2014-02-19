@@ -19,6 +19,11 @@ $specialPageAliases['ar'] = array(
 	'Error404' => array( 'خطأ404' ),
 );
 
+/** Egyptian Spoken Arabic (مصرى) */
+$specialPageAliases['arz'] = array(
+	'Error404' => array( 'خطا404' ),
+);
+
 /** Assamese (অসমীয়া) */
 $specialPageAliases['as'] = array(
 	'Error404' => array( 'ভুল__৪০৪', '৪০৪' ),
@@ -147,6 +152,11 @@ $specialPageAliases['nds-nl'] = array(
 /** Polish (polski) */
 $specialPageAliases['pl'] = array(
 	'Error404' => array( 'Błąd_404' ),
+);
+
+/** Quechua (Runa Simi) */
+$specialPageAliases['qu'] = array(
+	'Error404' => array( 'Pantasqa404' ),
 );
 
 /** Russian (русский) */
