@@ -174,10 +174,16 @@ Tal vez te gustaría ir a:
 );
 
 /** Persian (فارسی)
+ * @author Armin1392
  * @author Mjbmr
  */
 $messages['fa'] = array(
+	'special404-desc' => 'فراهم کردن یک مقصد برای خطاهای پیدا نشده ۴۰۴',
 	'error404' => '۴۰۴ یافت نشد',
+	'special404-body' => 'یوآر‌الی که شما درخواست دادید پیدا نشد.
+آیا منظورتان نوع {{fullurl:$1}} بود؟
+شاید شما دوست داشته باشید نگاه کنید بهː 
+* [[{{MediaWiki:Mainpage}}|صفحه اصلی]]',
 );
 
 /** French (français)
