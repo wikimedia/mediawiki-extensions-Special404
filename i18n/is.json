@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Snævar"
-        ]
-    },
-    "error404": "404 Síðan fannst ekki.",
-    "special404-body": "Vefslóðin sem þú baðst um fannst ekki.\n\nÆtlaðir þú að skrifa {{fullurl:$1}} ?\n\nMyndir þú vilja kíkja á: \n* [[{{MediaWiki:Mainpage}}|Forsíðuna]]"
+	"@metadata": {
+		"authors": [
+			"Snævar"
+		]
+	},
+	"error404": "404 Síðan fannst ekki.",
+	"special404-body": "Vefslóðin sem þú baðst um fannst ekki.\n\nÆtlaðir þú að skrifa {{fullurl:$1}} ?\n\nMyndir þú vilja kíkja á: \n* [[{{MediaWiki:Mainpage}}|Forsíðuna]]"
 }
