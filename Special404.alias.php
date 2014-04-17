@@ -56,7 +56,7 @@ $specialPageAliases['de'] = array(
 
 /** Zazaki (Zazaki) */
 $specialPageAliases['diq'] = array(
-	'Error404' => array( 'Ğeta404' ),
+	'Error404' => array( 'Xeta404' ),
 );
 
 /** Greek (Ελληνικά) */
