@@ -94,6 +94,11 @@ $specialPageAliases['gsw'] = array(
 	'Error404' => array( 'Fääler_404' ),
 );
 
+/** Upper Sorbian (hornjoserbsce) */
+$specialPageAliases['hsb'] = array(
+	'Error404' => array( 'Zmylk_404' ),
+);
+
 /** Haitian (Kreyòl ayisyen) */
 $specialPageAliases['ht'] = array(
 	'Error404' => array( 'Erè404' ),
