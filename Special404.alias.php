@@ -144,6 +144,11 @@ $specialPageAliases['ml'] = array(
 	'Error404' => array( 'പിഴവ്404' ),
 );
 
+/** Malay (Bahasa Melayu) */
+$specialPageAliases['ms'] = array(
+	'Error404' => array( 'Ralat_404' ),
+);
+
 /** Norwegian Bokmål (norsk bokmål) */
 $specialPageAliases['nb'] = array(
 	'Error404' => array( '404-feil' ),
