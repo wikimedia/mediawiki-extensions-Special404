@@ -134,6 +134,11 @@ $specialPageAliases['lb'] = array(
 	'Error404' => array( 'Feeler_404' ),
 );
 
+/** Literary Chinese (文言) */
+$specialPageAliases['lzh'] = array(
+	'Error404' => array( '誤_四〇四' ),
+);
+
 /** Macedonian (македонски) */
 $specialPageAliases['mk'] = array(
 	'Error404' => array( 'Грешка404' ),
