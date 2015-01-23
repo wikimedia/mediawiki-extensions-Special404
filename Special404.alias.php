@@ -29,6 +29,11 @@ $specialPageAliases['as'] = array(
 	'Error404' => array( 'ভুল__৪০৪', '৪০৪' ),
 );
 
+/** Avaric (авар) */
+$specialPageAliases['av'] = array(
+	'Error404' => array( 'Ошибка_404' ),
+);
+
 /** Breton (brezhoneg) */
 $specialPageAliases['br'] = array(
 	'Error404' => array( 'Fazi_404', '404' ),
