@@ -21,6 +21,7 @@ $wgExtensionCredits['specialpage'][] = array(
 	'name' => 'Special404',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:Special404',
 	'descriptionmsg' => 'special404-desc',
+	'license-name' => 'GPL-2.0+',
 );
 
 $dir = dirname( __FILE__ );
