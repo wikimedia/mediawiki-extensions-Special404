@@ -34,6 +34,11 @@ $specialPageAliases['av'] = array(
 	'Error404' => array( 'Ошибка_404' ),
 );
 
+/** Western Balochi (بلوچی رخشانی) */
+$specialPageAliases['bgn'] = array(
+	'Error404' => array( '۴۰۴', '۴۰۴_ئی_خَتا' ),
+);
+
 /** Breton (brezhoneg) */
 $specialPageAliases['br'] = array(
 	'Error404' => array( 'Fazi_404', '404' ),
