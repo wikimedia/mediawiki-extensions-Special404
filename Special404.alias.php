@@ -104,6 +104,11 @@ $specialPageAliases['gsw'] = array(
 	'Error404' => array( 'Fääler_404' ),
 );
 
+/** Hindi (हिन्दी) */
+$specialPageAliases['hi'] = array(
+	'Error404' => array( 'त्रुटि४०४', '४०४' ),
+);
+
 /** Upper Sorbian (hornjoserbsce) */
 $specialPageAliases['hsb'] = array(
 	'Error404' => array( 'Zmylk_404' ),
