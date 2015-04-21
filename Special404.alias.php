@@ -211,7 +211,7 @@ $specialPageAliases['tr'] = array(
 
 /** Ukrainian (українська) */
 $specialPageAliases['uk'] = array(
-	'Error404' => array( 'Помилка404' ),
+	'Error404' => array( 'Помилка_404' ),
 );
 
 /** Urdu (اردو) */
