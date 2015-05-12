@@ -19,7 +19,7 @@ $specialPageAliases['ar'] = array(
 	'Error404' => array( 'خطأ404' ),
 );
 
-/** Egyptian Spoken Arabic (مصرى) */
+/** Egyptian Arabic (مصرى) */
 $specialPageAliases['arz'] = array(
 	'Error404' => array( 'خطا404' ),
 );
@@ -89,7 +89,7 @@ $specialPageAliases['fr'] = array(
 	'Error404' => array( 'Erreur404' ),
 );
 
-/** Franco-Provençal (arpetan) */
+/** Arpitan (arpetan) */
 $specialPageAliases['frp'] = array(
 	'Error404' => array( 'Èrror404' ),
 );
