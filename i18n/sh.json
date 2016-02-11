@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Conquistador"
+		]
+	},
+	"special404-body": "Traženi URL nije pronađen.\n\nJeste li mislili upisati {{fullurl:$1}}?\n\nMožda biste željeli pogledati:\n* [[{{MediaWiki:Mainpage}}|Glavna stranica]]"
+}
