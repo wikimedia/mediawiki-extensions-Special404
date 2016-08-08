@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"special404-body": "Vpisanega URL-naslova ni bilo mogoče najti.\n\nSte morda želeli vpisati naslov {{fullurl:$1}}?\n\nMorda bi si želeli pogledati:\n* [[{{MediaWiki:Mainpage}}|Glavno stran]]"
+}
