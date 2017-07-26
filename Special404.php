@@ -5,16 +5,16 @@
  * @file
  * @ingroup Extensions
  * @author Daniel Friesen
- * @license http://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
- * @link http://www.mediawiki.org/wiki/Extension:Special404 Documentation
+ * @license https://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
+ * @link https://www.mediawiki.org/wiki/Extension:Special404 Documentation
  */
 
-# Not a valid entry point, skip unless MEDIAWIKI is defined
+// Ensure that the script cannot be executed outside of MediaWiki.
 if ( !defined( 'MEDIAWIKI' ) ) {
-	echo "Special404 extension";
-	exit( 1 );
+    die( 'This is an extension to MediaWiki and cannot be run standalone.' );
 }
 
+// Display extension properties on MediaWiki.
 $wgExtensionCredits['specialpage'][] = array(
 	'path' => __FILE__,
 	'author' => 'Daniel Friesen',
@@ -24,13 +24,15 @@ $wgExtensionCredits['specialpage'][] = array(
 	'license-name' => 'GPL-2.0+',
 );
 
-$dir = dirname( __FILE__ );
+// Register extension messages and other localisation.
 $wgMessagesDirs['Special404'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['Special404'] = $dir . '/Special404.i18n.php';
-$wgExtensionMessagesFiles['Special404Alias'] = $dir . '/Special404.alias.php';
+$wgExtensionMessagesFiles['Special404Alias'] = __DIR__ . '/Special404.alias.php';
 
+// Register special page with MediaWiki.
 $wgSpecialPages['Error404'] = 'Special404';
-$wgAutoloadClasses['Special404'] = $dir . '/Special404_body.php';
+
+// Load extension's classes.
+$wgAutoloadClasses['Special404'] = __DIR__ . '/Special404_body.php';
 
 // Enable this to force an automatic 301 Moved Permanently redirect if a matching title exists
 // This might be useful if you used to use root /Article urls and moved to something else
