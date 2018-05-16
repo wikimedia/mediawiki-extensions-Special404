@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Snævar"
+			"Snævar",
+			"Sveinn í Felli"
 		]
 	},
-	"error404": "404 Síðan fannst ekki.",
+	"special404-desc": "Gerir kleift að ákveða úttak fyrir \"404 Fannst ekki\" villuskilaboð",
+	"error404": "404 Fannst ekki",
 	"special404-body": "Vefslóðin sem þú baðst um fannst ekki.\n\nÆtlaðir þú að skrifa {{fullurl:$1}} ?\n\nMyndir þú vilja kíkja á: \n* [[{{MediaWiki:Mainpage}}|Forsíðuna]]"
 }
