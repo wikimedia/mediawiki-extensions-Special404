@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Hamilton Abreu",
-			"Waldir"
+			"Waldir",
+			"Waldyrious"
 		]
 	},
 	"special404-desc": "Fornece um destino para os erros \"404 Não encontrado\"",
