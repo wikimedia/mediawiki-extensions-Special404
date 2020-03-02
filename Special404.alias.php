@@ -198,9 +198,14 @@ $specialPageAliases['scn'] = [
 	'Error404' => [ 'Errore404' ],
 ];
 
-/** Serbian (Cyrillic script) (српски (ћирилица)‎) */
+/** Serbian (Cyrillic script) (српски (ћирилица)) */
 $specialPageAliases['sr-ec'] = [
 	'Error404' => [ 'Грешка404' ],
+];
+
+/** Serbian (Latin script) (srpski (latinica)) */
+$specialPageAliases['sr-el'] = [
+	'Error404' => [ 'Greška404' ],
 ];
 
 /** Turkish (Türkçe) */
