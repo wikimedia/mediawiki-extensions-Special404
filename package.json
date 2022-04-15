@@ -1,4 +1,5 @@
 {
+	"name": "Special404",
 	"private": true,
 	"scripts": {
 		"test": "grunt test"
