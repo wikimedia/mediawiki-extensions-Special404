@@ -233,11 +233,6 @@ $specialPageAliases['yue'] = [
 	'Error404' => [ '錯誤404' ],
 ];
 
-/** Chinese (中文) */
-$specialPageAliases['zh'] = [
-	'Error404' => [ '404错误', '404錯誤' ],
-];
-
 /** Simplified Chinese (中文（简体）‎) */
 $specialPageAliases['zh-hans'] = [
 	'Error404' => [ '404错误' ],
