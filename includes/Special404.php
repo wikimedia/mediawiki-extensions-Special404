@@ -1,5 +1,7 @@
 <?php
 
+use MediaWiki\Title\Title;
+
 class Special404 extends UnlistedSpecialPage {
 
 	public function __construct() {
