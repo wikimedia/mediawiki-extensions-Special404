@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"special404-desc": "Poskytuje cieľovú stránku pre chyby „404 – nenájdené“",
+	"error404": "404 Nenájdené",
+	"special404-body": "Požadovaná URL sa nenašla.\n\nNechceli ste náhodou napísať {{fullurl:$1}}?\n\nMožno by vás zaujalo:\n* [[{{MediaWiki:Mainpage}}|Hlavná stránka]]"
+}
