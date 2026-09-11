@@ -1,5 +1,6 @@
 <?php
 
+use MediaWiki\Request\FauxRequest;
 use MediaWiki\Title\Title;
 
 class Special404 extends UnlistedSpecialPage {
@@ -13,27 +14,34 @@ class Special404 extends UnlistedSpecialPage {
 	 */
 	public function execute( $par ) {
 		// phpcs:ignore MediaWiki.NamingConventions.ValidGlobalName.allowedPrefix
-		global $wgOut, $wgRequest, $egSpecial404RedirectExistingRoots;
+		global $egSpecial404RedirectExistingRoots;
 
-		if ( $egSpecial404RedirectExistingRoots ) {
+		$output = $this->getOutput();
+		$request = $this->getRequest();
+		$requestUrl = $request instanceof FauxRequest && !$request->hasRequestURL()
+			? ''
+			: $request->getRequestURL();
+		$trimmedRequestUrl = trim( $requestUrl, '/\\' );
+
+		if ( $egSpecial404RedirectExistingRoots && $requestUrl !== '' ) {
 			$titles = [
-				$wgRequest->getRequestURL(),
-				trim( $wgRequest->getRequestURL(), '/\\' ),
-				urldecode( $wgRequest->getRequestURL() ),
-				urldecode( trim( $wgRequest->getRequestURL(), '/\\' ) ),
+				$requestUrl,
+				$trimmedRequestUrl,
+				urldecode( $requestUrl ),
+				urldecode( $trimmedRequestUrl ),
 			];
 			foreach ( $titles as $pageTitle ) {
 				$t = Title::newFromText( $pageTitle );
 				if ( $t && $t->exists() ) {
-					$wgOut->redirect( $t->getFullURL(), 301 );
+					$output->redirect( $t->getFullURL(), 301 );
 					return;
 				}
 			}
 		}
 
 		$this->setHeaders();
-		$wgOut->setStatusCode( 404 );
-		$wgOut->addWikiMsg( 'special404-body', trim( $wgRequest->getRequestURL(), '/\\' ) );
+		$output->setStatusCode( 404 );
+		$output->addWikiMsg( 'special404-body', $trimmedRequestUrl );
 	}
 
 }
